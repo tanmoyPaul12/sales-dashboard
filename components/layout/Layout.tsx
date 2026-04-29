@@ -10,7 +10,7 @@ export default function Layout({ children }: any) {
         {/* <div className="flex justify-end mb-4">
           <ThemeToggle />
         </div> */}
-
+        
         {children}
       </div>
     </div>
